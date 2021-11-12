@@ -17,7 +17,7 @@ Termux-Banner Tool
 
 >`pkg install lolcat`
 
->`git clone https://github.com/cybercrimeofficial/Termux-Banner`
+>`git clone https://github.com/cybermatheesha/Termux-Banner-v1`
 
 >`cd Termux-Banner-v1`
 
